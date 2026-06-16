@@ -31,3 +31,9 @@ Constraints:
   | ------ | ------ | ------ |
   | Time Complexity | [Value] | [Value] |
   | Space Complexity | [Value] | [Value] |
+
+
+  Here is an example of the AlgoOptimizer Pro agent working:
+  !.Enter your code in text mode as input:
+  <img width="871" height="520" alt="input" src="https://github.com/user-attachments/assets/62da25e1-6a70-4d21-82b9-b20d049fc8e6" />
+
